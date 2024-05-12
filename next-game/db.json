@@ -1,0 +1,957 @@
+{
+  "user": [
+    {
+      "id": "319c",
+      "name": "admin1",
+      "email": "admin@gmail.com",
+      "username": null,
+      "password": "admin1"
+    }
+  ],
+  "wishtlist": [],
+  "product": [
+    {
+      "name": "Mobile Lagends",
+      "slug": "Mobile Lagends",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "500000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/ML-64f6.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "ebcd"
+    },
+    {
+      "name": "Free Fire",
+      "slug": "Free Fire",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "600000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/FF-6958.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "9885"
+    },
+    {
+      "name": "Undown",
+      "slug": "Undown",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/undawn-577d-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "0704"
+    },
+    {
+      "name": "PUBG",
+      "slug": "PUBG",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "560000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/PUBG indo-ab6f.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "fd3a"
+    },
+    {
+      "name": "PUBG Global",
+      "slug": "PUBG Global",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "700000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/PUBG global-733b.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "7150"
+    },
+    {
+      "name": "PUBG New State",
+      "slug": "PUBG New State",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "600000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/PUBG NewState-dd4a.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "ef14"
+    },
+    {
+      "name": "Genshin Impact",
+      "slug": "7",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "520000",
+      "tag": "Genshin Impact",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Genshin Impact-6c4f.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "6117"
+    },
+    {
+      "name": "Honkai Star Rail",
+      "slug": "Honkai Star Rail",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "870000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Honkai Star Rail Gamestore Indonesia-10410c-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "cdff"
+    },
+    {
+      "name": "Honkai Impact 3",
+      "slug": "Honkai Impact 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Honkai Impact 3-dc6a.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "c304"
+    },
+    {
+      "name": "Sausage Man",
+      "slug": "Sausage Man",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "670000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Sausage Man-54d5.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "6850"
+    },
+    {
+      "name": "Arena of Valor",
+      "slug": "Arena of Valor",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "890000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/AOV-6db2.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "a822"
+    },
+    {
+      "name": "League of Legends",
+      "slug": "League of Legends",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "450000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/LOL WR-18e4.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "e4ed"
+    },
+    {
+      "name": "Call of Duty: Mobile",
+      "slug": "Call of Duty: Mobile",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "460000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/CODM-a478.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "db8a"
+    },
+    {
+      "name": "Metal Slug Awk",
+      "slug": "Metal Slug Awk",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "430000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Metal Slug Awk Gamestore Indonesia-b785-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "fee9"
+    },
+    {
+      "name": "Arena Breakout",
+      "slug": "Arena Breakout",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "440000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Arena Breakout Gamestore Indonesia-c1b2-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "149d"
+    },
+    {
+      "name": "fc mobile",
+      "slug": "fc mobile",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "360000",
+      "tag": "POPULAR",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/fc mobile Gamestore Indonesia-8ef9-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "e896"
+    },
+    {
+      "name": "Black Clover M",
+      "slug": "Black Clover M",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "230000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Black Clover M Gamestore Indonesia-3110b-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "9471"
+    },
+    {
+      "name": "Teamfight Tactics ",
+      "slug": "Teamfight Tactics ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "330000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Teamfight Tactics Gamestore Indonesia-b9f5-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "9152"
+    },
+    {
+      "name": "Honor of Kings",
+      "slug": "Honor of Kings",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "440000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Honor of Kings Gamestore Indonesia-84e2-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "7e20"
+    },
+    {
+      "name": "Growtopia",
+      "slug": "Growtopia",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "520000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Growtopia Gamestore Indonesia-1684-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "b7d1"
+    },
+    {
+      "name": "Eggy Party",
+      "slug": "Eggy Party",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "120000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Eggy Party-7557-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "dec5"
+    },
+    {
+      "name": "Ace Racer",
+      "slug": "Ace Racer",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "330000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Ace Racer Gamestore Indonesia-e68e-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "21d6"
+    },
+    {
+      "name": "Clash of Clans",
+      "slug": "Clash of Clans",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "220000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Clash of Clans Gamestore Indonesia-206a-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "f268"
+    },
+    {
+      "name": "Clash Royale",
+      "slug": "Clash Royale",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "430000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Clash Royale Gamestore Indonesia-aa53-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "b249"
+    },
+    {
+      "name": "Brawl Stars",
+      "slug": "Brawl Stars",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "220000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Brawl Stars Gamestore Indonesia-210e4-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "2865"
+    },
+    {
+      "name": "Hay Day",
+      "slug": "Hay Day",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "110000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Hay Day Gamestore Indonesia-e2d9-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "1394"
+    },
+    {
+      "name": "ragnarok",
+      "slug": "ragnarok",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "210000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/ragnarok m gamestore indonesia-5a4c-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "8782"
+    },
+    {
+      "name": "RAGNAROK",
+      "slug": "RAGNAROK",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "340000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/RAGNAROK ORIGIN GAMESTORE INDONESIA-bcdb-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "ffca"
+    },
+    {
+      "name": "ragnarok",
+      "slug": "ragnarok",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "430000",
+      "tag": "NEW RELEASE",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/ragnarok x gamestore indonesia-c4ae-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "519a"
+    },
+    {
+      "name": "Seal M",
+      "slug": "Seal M",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "210000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Seal M Gamestore Indonesia-9f85-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "6abc"
+    },
+    {
+      "name": "Stumble Guys",
+      "slug": "Stumble Guys",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "450000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Stumble Guys-29ff.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "e9da"
+    },
+    {
+      "name": "Super SUS",
+      "slug": "Super SUS",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "560000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Super SUS-718e.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "9a9d"
+    },
+    {
+      "name": "Farlight 84",
+      "slug": "Farlight 84",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "670000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Farlight 84 Gamestore Indonesia-48bc-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "709f"
+    },
+    {
+      "name": "Goddes of Victor",
+      "slug": "Goddes of Victor",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "560000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Goddes of Victory Nikke-108ac.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "2d27"
+    },
+    {
+      "name": "TOF",
+      "slug": "TOF",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "510000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/ToF-a39a.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "43da"
+    },
+    {
+      "name": "Dragon Raja",
+      "slug": "Dragon Raja",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "520000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Dragon Raja-d448.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "9b59"
+    },
+    {
+      "name": "Life After",
+      "slug": "Life After",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "750000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Life After-f610f.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "1c8f"
+    },
+    {
+      "name": "Ludo Club",
+      "slug": "Ludo Club",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "7500000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Ludo Club-5ff6.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "ca73"
+    },
+    {
+      "name": "Hago",
+      "slug": "Hago",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "850000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Hago-5115.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "b8fc"
+    },
+    {
+      "name": "Speed Drifters",
+      "slug": "Speed Drifters",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "7500000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Speed Drifters-ebc1.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "a708"
+    },
+    {
+      "name": "Zepeto",
+      "slug": "Zepeto",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "570000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Zepeto-a0610.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "4c1f"
+    },
+    {
+      "name": "dragon nest 2",
+      "slug": "dragon nest 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "500000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/dragon nest 2 gamestore indonesia-c49d-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "8860"
+    },
+    {
+      "name": "Lords Mobile",
+      "slug": "Lords Mobile",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "510000",
+      "tag": "COOL",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Lords Mobile-5fad-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "2821"
+    },
+    {
+      "name": "whiteout survival",
+      "slug": "whiteout survival",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "230000",
+      "tag": "DISCOUNT",
+      "thumbnail": " https://static-src.vocagame.com/gamestoreindonesia/whiteout survival Gamestore Indonesia-1b105-original.webp ",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "2178"
+    },
+    {
+      "name": "Dragonheir",
+      "slug": "Dragonheir",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "350000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Dragonheir gamestore indonesia-0b45-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "e54e"
+    },
+    {
+      "name": "Dynasty Warriors Overlords",
+      "slug": "Dynasty Warriors Overlords",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "760000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Dynasty Warriors Overlords Gamestore Indonesia-4494-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "960d"
+    },
+    {
+      "name": "Chimeraland",
+      "slug": "Chimeraland",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Chimeraland gamestore indonesia-8521-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "85ed"
+    },
+    {
+      "name": "Rhythm Hive",
+      "slug": "Rhythm Hive",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "650000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Rhythm Hive Gamestore Indonesia-1bbe-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "5265"
+    },
+    {
+      "name": "Top Eleven Gamestore",
+      "slug": "Top Eleven Gamestore",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "760000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Top Eleven Gamestore Indonesia-3769-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "2e92"
+    },
+    {
+      "name": "Football Master 2",
+      "slug": "Football Master 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "660000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Football Master 2-826d.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "79f2"
+    },
+    {
+      "name": "State of Survival",
+      "slug": "State of Survival",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "680000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/State of Survival Gamestore Indonesia-a222-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "1a98"
+    },
+    {
+      "name": "Legends of Runeterra",
+      "slug": "Legends of Runeterra",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Legends of Runeterra Gamestore Indonesia-3b0d-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "3daf"
+    },
+    {
+      "name": "REVELATION MOBILE",
+      "slug": "REVELATION MOBILE",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "890000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/REVELATION MOBILE-940f.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "5c93"
+    },
+    {
+      "name": "Bleach Mobile",
+      "slug": "Bleach Mobile",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "780000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Bleach Mobile 3D-2e21.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "da21"
+    },
+    {
+      "name": "Dragon City",
+      "slug": "Dragon City",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "880000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Dragon City-a2c8.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "c0fa"
+    },
+    {
+      "name": "8 Ball",
+      "slug": "8 Ball",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "500000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/8 Ball-1edd.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "61e1"
+    },
+    {
+      "name": "One Punch Man",
+      "slug": "One Punch Man",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "5050000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/One Punch Man-f1fb.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "e0cb"
+    },
+    {
+      "name": "Marvel Snap",
+      "slug": "Marvel Snap",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "130000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Marvel Snap-88ba.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "ef93"
+    },
+    {
+      "name": "Harry Potter",
+      "slug": "Harry Potter",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "230000",
+      "tag": "DISCOUNT",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Harry Potter Gamestore Indonesia-aceb-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "17b6"
+    },
+    {
+      "name": "Dunk City Dynasty",
+      "slug": "Dunk City Dynasty",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "450000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Dunk City Dynasty Gamestore Indonesia-8147-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "7f3d"
+    },
+    {
+      "name": "Ensemble Stars Music",
+      "slug": "Ensemble Stars Music",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Ensemble Stars Music Gamestore Indonesia-19af-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "8fa8"
+    },
+    {
+      "name": "Infinite Borders",
+      "slug": "Infinite Borders",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "570000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Infinite Borders Gamestore Indonesia-bdb0-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "f58d"
+    },
+    {
+      "name": "Life Makeover",
+      "slug": "Life Makeover",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "850000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Life Makeover Gamestore Indonesia-2201-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "699a"
+    },
+    {
+      "name": "SHINING NIKKI",
+      "slug": "SHINING NIKKI",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/SHINING NIKKI-46ad-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "58de"
+    },
+    {
+      "name": "Onmyoji Arena",
+      "slug": "Onmyoji Arena",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "550000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Onmyoji Arena-ab3b.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "6e35"
+    },
+    {
+      "name": "Heroes Evolved",
+      "slug": "Heroes Evolved",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "520000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Heroes Evolved-6f46.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "2d11"
+    },
+    {
+      "name": "Identity",
+      "slug": "Identity",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "510000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Identity V-8475.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "7ba1"
+    },
+    {
+      "name": "Echocalypse",
+      "slug": "Echocalypse",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "250000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Echocalypse Gamestore Indonesia-657d-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "a0f2"
+    },
+    {
+      "name": "Naruto Slugfest",
+      "slug": "Naruto Slugfest",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, ",
+      "price": "500000",
+      "tag": "OTHER",
+      "thumbnail": "https://static-src.vocagame.com/gamestoreindonesia/Naruto Slugfest X Gamestore Indonesia-7d1a-original.webp",
+      "createdAt": "2023-12-15T15:32:06.350Z",
+      "updatedAt": "2024-03-18T14:47:12.101Z",
+      "id": "c9cf"
+    }
+  ],
+  "discount": [
+    {
+      "slug": "1",
+      "name": "Top-up Genshin Impact, GRATIS Official Merchandise",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/04/IDgenshin24-Banner.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "23 April 2024",
+      "id": "60d7"
+    },
+    {
+      "slug": "2",
+      "name": "Tambah Rp 2.000 bisa dapetin total 20.000 diamond Mobile Legends di Lapakgaming",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/04/hb-20rbDMMLBB.png?fit=1448%2C520&ssl=1&tr=w-1080%2Cq-75",
+      "date": "05 April 2024",
+      "id": "bf5d"
+    },
+    {
+      "slug": "3",
+      "name": "Top up 278 Diamonds Mobile Legends cuma 50ribu di Lapakgaming",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/04/hb-278promo-mlbb.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "05 April 2024",
+      "id": "bfe1"
+    },
+    {
+      "slug": "4",
+      "name": "Top Up di Lapakgaming pakai DANA Diskon 10rb!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/04/Home_Banner_-_Dana-_Promo_April_-_1448x520_px.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "02 April 2024",
+      "id": "e8f1"
+    },
+    {
+      "slug": "5",
+      "name": "Top Up Makin Hemat di, Catat Promonya!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-PP-MLBB-MoskovAllStar.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "27 Maret 2024",
+      "id": "c1e3"
+    },
+    {
+      "slug": "6",
+      "name": "Top up UC PUBGM di Lapakgaming Dapatkan 2x Kesempatan Memenangkan Lucky Draw!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-Ketupat-LDRAW-PUBG.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "21 Maret 2024",
+      "id": "ee09"
+    },
+    {
+      "slug": "7",
+      "name": "Dance Challenge Jingle Lapakgaming, Dapat iPhone 15 dan Puluhan Juta Rupiah!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/Dance-Challenge-HB.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "19 Maret 2024",
+      "id": "3f1a"
+    },
+    {
+      "slug": "8",
+      "name": "Weekly Diamond 9,900 di Lapakgaming pakai Gopay App, Balik Lagi!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-RamadhanGOPAY-1.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "19 Maret 2024",
+      "id": "53fd"
+    },
+    {
+      "slug": "9",
+      "name": "Top Up Pakai Gopay di Lapakgaming, Menangkan Hadiah Hingga Puluhan Juta Rupiah!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-Ketupat-LDRAW-1.png?fit=1448%2C520&ssl=1&tr=w-128%2Cq-75",
+      "date": "18 Maret 2024",
+      "id": "bfa2"
+    },
+    {
+      "slug": "10",
+      "name": "Top Up Pakai Gopay di Lapakgaming, Menangkan Hadiah Hingga Puluhan Juta Rupiah!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-Ketupat-LDRAW-1.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "18 Maret 2024",
+      "id": "f043"
+    },
+    {
+      "slug": "11",
+      "name": "Top up 278 Diamonds Mobile Legends cuma 50ribu di Lapakgaming",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/04/hb-278promo-mlbb.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "05 April 2024",
+      "id": "c310"
+    },
+    {
+      "slug": "12",
+      "name": "WAJIB SERBU, WDP CUMA 15 RIBU PAKAI GOPAY APP!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-RamadhanGOPAY.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "14 Maret 2024",
+      "id": "70ec"
+    },
+    {
+      "slug": "13",
+      "name": "Weekly Diamond Pass cuma Rp9,900 di Lapakgaming pakai Gopay App",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-RamadhanGOPAY-KOL.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "06 Maret 2024",
+      "id": "dd7a"
+    },
+    {
+      "slug": "14",
+      "name": "Topup Pakai Gopay App, Dapatkan Cashback 70%!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/hb-GOPAY-ramadan.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "01 Maret 2024",
+      "id": "2b08"
+    },
+    {
+      "slug": "15",
+      "name": "Top Up di Lapakgaming pakai DANA Diskon s.d 25rb!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-DANA-1.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "06 Maret 2024",
+      "id": "9f28"
+    },
+    {
+      "slug": "16",
+      "name": "Tambah 2000 bisa dapet Merchandise Attack On Titan Gratis di Lapakgaming!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/02/IMG_0102.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "16 Februari 2024",
+      "id": "c4bd"
+    },
+    {
+      "slug": "17",
+      "name": "Cashback 30% Top Up Pakai Allo Bank di Lapakgaming!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-Allobank.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "06 Maret 2024",
+      "id": "1133"
+    },
+    {
+      "slug": "18",
+      "name": "KEJUTAN TOP UP AKHIR TAHUN SERBA RP2.023!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2023/12/1448x520-pp-Holidealsid.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "20 Desember 2023",
+      "id": "87d4"
+    },
+    {
+      "slug": "19",
+      "name": "Tambah Rp1000 bisa dapet merchandise Attack on Titan, Cuma di Lapakgaming!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/02/1448x520-Feeds-LUCKY_DRAW_MLxAOT.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "02 Februari 2024",
+      "id": "4ead"
+    },
+    {
+      "slug": "20",
+      "name": "#PASTIMENANGBANYAK TOPUP PUBGM DI LAPAKGAMING",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2023/12/pp-1212-pubg.png?fit=1440%2C686&ssl=1&tr=w-1920%2Cq-75",
+      "date": "08 Desember 2023",
+      "id": "71fb"
+    },
+    {
+      "slug": "21",
+      "name": "Pemenang Serbu Wibu Top Spender!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2023/12/PP-anouncement-SerbuWibu.png?fit=1440%2C686&ssl=1&tr=w-1920%2Cq-75",
+      "date": "04 Desember 2023 ",
+      "id": "ac49"
+    },
+    {
+      "slug": "22",
+      "name": "Weekly Diamond 9,900 di Lapakgaming pakai Gopay App, Balik Lagi!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-RamadhanGOPAY-1.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "19 Maret 2024",
+      "id": "043f"
+    },
+    {
+      "slug": "23",
+      "name": "12.12 TOPUP PUAS DI LAPAKGAMING",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2023/12/pp-1212-crazydeal.png?fit=1440%2C686&ssl=1&tr=w-1920%2Cq-75",
+      "date": "08 Desember 2023",
+      "id": "7971"
+    },
+    {
+      "slug": "24",
+      "name": "Cashback 30% Top Up Pakai Allo Bank di Lapakgaming!",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2024/03/1448x520-HB-Allobank.png?fit=1448%2C520&ssl=1&tr=w-1920%2Cq-75",
+      "date": "06 Maret 2024",
+      "id": "01b0"
+    },
+    {
+      "slug": "25",
+      "name": "Weekend Waktunya Level Up! Top Up di Lapakgaming Jadi Praktis Pakai GoPay",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2023/06/1440x6686-PP-GOPAY.png?fit=1440%2C686&ssl=1&tr=w-1920%2Cq-75",
+      "date": "20 Oktober 2023",
+      "id": "1a80"
+    },
+    {
+      "slug": "26",
+      "name": "Download aplikasi GOPAY dan dapatkan Cashback up to 70%",
+      "imgUrl": "https://i0.wp.com/www.lapakgaming.com/blog/id-id/wp-content/uploads/2023/12/1440x686-PP-GOPAY70_LG.png?fit=1440%2C686&ssl=1&tr=w-1920%2Cq-75",
+      "date": "18 Desember 2023",
+      "id": "ae62"
+    }
+  ]
+}
